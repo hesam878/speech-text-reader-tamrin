@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
+    <title>ترجمه متن فارسی به انگلیسی به گفتا</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>ترجمه متن فارسی به انگلیسی به گفتا</h1>
+      <button id="toggle" class="btn btn-toggle">
+        جعبه متن را تغییر دهید
+      </button>
+      <div id="text-box" class="text-box">
+        <div id="close" class="close">X</div>
+        <h3>انتخاب صدا</h3>
+        <select id="voices"></select>
+        <textarea id="text" placeholder="متن را برای خواندن انگلیسی وارد کنید..."></textarea>
+        <button class="btn" id="read">خواندن متن</button>
+      </div>
+      <main></main>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
