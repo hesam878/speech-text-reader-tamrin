@@ -7,62 +7,62 @@ const closeBtn = document.getElementById('close');
 
 const data = [
 {
-  image: '../img/drink.jpg',
+  image: 'drink.jpg',
   textfa: "من تشنه‌ام",
   text: "I'm Thirsty"
 },
 {
-  image: '../img/food.jpg',
+  image: 'food.jpg',
   textfa: "من گرسنه‌ام",
   text: "I'm Hungry"
 },
 {
-  image: '../img/tired.jpg',
+  image: 'tired.jpg',
   textfa: "من خسته‌ام",
   text: "I'm Tired"
 },
 {
-  image: '../img/hurt.jpg',
+  image: 'hurt.jpg',
   textfa: "من آسیب دیدم",
   text: "I'm Hurt"
 },
 {
-  image: '../img/happy.jpg',
+  image: 'happy.jpg',
   textfa: "من خوشحالم",
   text: "I'm Happy"
 },
 {
-  image: '../img/angry.jpg',
+  image: 'angry.jpg',
   textfa: "من عصبانی‌ام",
   text: "I'm Angry"
 },
 {
-  image: '../img/sad.jpg',
+  image: 'sad.jpg',
   textfa: "من ناراحتم",
   text: "I'm Sad"
 },
 {
-  image: '../img/scared.jpg',
+  image: 'scared.jpg',
   textfa: "من ترسیده‌ام",
   text: "I'm Scared"
 },
 {
-  image: '../img/outside.jpg',
+  image: 'outside.jpg',
   textfa: "می‌خوام برم بیرون",
   text: "I Want To Go Outside"
 },
 {
-  image: '../img/home.jpg',
+  image: 'home.jpg',
   textfa: "می‌خوام برم خونه",
   text: "I Want To Go Home"
 },
 {
-  image: '../img/school.jpg',
+  image: 'school.jpg',
   textfa: "می‌خوام برم مدرسه",
   text: "I Want To Go To School"
 },
 {
-  image: '../img/grandma.jpg',
+  image: 'grandma.jpg',
   textfa: "می‌خوام برم خونه مامان‌بزرگ",
   text: "I Want To Go To Grandmas"
 }
